@@ -1,3 +1,4 @@
-*.xml
+.xml
 venv
-*.iml
+.iml
+.idea
